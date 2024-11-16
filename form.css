@@ -1,0 +1,23 @@
+.a{
+    width: 300px;
+    margin: o auto;
+    position: relative;
+    margin-top: 150px;
+    margin-left: 500px;
+    padding: 20px 40px;
+    border-radius: 5%;
+    background-color: aquamarine;
+    
+}
+.ab{
+    padding: 20px;
+    text-align: center;
+}
+.ab button{
+    background-color: blue;
+    color: black;
+}
+.ab button:hover{
+    background-color: white;
+    color: black;
+}
